@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="flickrPrimary">@color/md_red_500</color>
+    <color name="flickrSecondary">@color/md_red_700</color>
+    <color name="flickrAccent">@color/md_pink_500</color>
+    <color name="flickrBackgroundColor">@color/md_grey_600</color>
+    <color name="flickrPrimaryText">@color/md_white_1000</color>
+    <color name="flickrSecondaryText">@color/md_red_700</color>
+</resources>

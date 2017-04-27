@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flickr Browser</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="searchable_label">Search Query</string>
+    <string name="searchable_hint">Pesquise uma foto</string>
+    <string name="title_activity_view_photo_details_ativicty">Photo Details</string>
+</resources>
